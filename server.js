@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB Connection
-mongoose.connect('mongodb+srv://mounawerzarai24409942_db_user:NihzBlM21vkQmcSg@cluster0.dst1rhc.mongodb.net/', {
+mongoose.connect('mongodb+srv://zdabderrahmen_db_user:lwsgi6cA3ByFFYmN@angularcluster.qpnvofw.mongodb.net/?appName=AngularCluster', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
