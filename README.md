@@ -14,6 +14,6 @@ A full-stack expense tracking application with real-time currency conversion, bu
 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 Backend: Node.js, Express.js
-Database: MongoDB
+Database: MongoDB Atlas
 APIs: Exchange Rate API
 Charts: Chart.js
